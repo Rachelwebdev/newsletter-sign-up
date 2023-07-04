@@ -1,70 +1,137 @@
-# Getting Started with Create React App
+# Newsletter Sign-up Form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a name="readme-top"></a>
 
-## Available Scripts
+# 📗Table of Contents
 
-In the project directory, you can run:
+- [Newsletter Sign-up Form](#newsletter-sign-up-form)
+- [📗Table of Contents](#table-of-contents)
+- [📖 \[Newsletter Sign-up Form\] ](#-newsletter-sign-up-form-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Author ](#-author-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-### `npm start`
+# 📖 [Newsletter Sign-up Form] <a name="about-project"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**[Newsletter Sign-up Form]** is a form where the user can add their email and submit the form, see a success message with their email afetr successfully submitting the form. The user should also see form validation messages if the field is left empty or their email address is not formatted correctly.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Built With <a name="built-with"></a>
 
-### `npm test`
+### Tech Stack <a name="tech-stack"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<details>
+  <summary>Build With</summary>
+  <ul>
+    <li><a href="https://html.com/">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+    <li><a href="https://www.javascript.com/">JavaScript</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-### `npm run build`
+### Key Features <a name="key-features"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Adding an email address and submitting the form
+- Get a success message with the user email after successfully submitting the form
+- Add form validations for the input field and email address
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- LIVE DEMO -->
 
-### `npm run eject`
+## 🚀 Live Demo <a name="live-demo"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [Live Demo Link]()
+- [Live Video]()
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 💻 Getting Started <a name="getting-started"></a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Prerequisites
 
-## Learn More
+In order to run this project you need: a properly working pc or laptop and a modern web browser.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Setup
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Clone this repository to your desired folder:
 
-### Code Splitting
+```sh
+  cd my-folder
+  git clone git@github.com:Rachelwebdev/newsletter-sign-up.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Install
 
-### Analyzing the Bundle Size
+Install this project with:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```sh
+  cd my-folder
+  git clone git@github.com:Rachelwebdev/newsletter-sign-up.git
+  npm install
+```
 
-### Making a Progressive Web App
+### Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Use this app by runing:
 
-### Advanced Configuration
+```sh
+  cd my-folder
+  git clone git@github.com:Rachelwebdev/newsletter-sign-up.git
+  npm install
+  npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Run tests
 
-### Deployment
+Test this app by runing:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```sh
+  cd my-folder
+  git git@github.com:Rachelwebdev/newsletter-sign-up.git
+  npm install
+  npm test
+```
 
-### `npm run build` fails to minify
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 👥 Author <a name="authors"></a>
+
+👤 **Rachel Isaac**
+
+- GitHub: [@rachelwebdev](https://github.com/Rachelwebdev)
+- Twitter:[@rachelisaac13](https://twitter.com/Rachelisaac13)
+- LinkedIn: [Rachel Isaac](https://www.linkedin.com/in/rachelisaac13/)
+- Email: [Rachel isaac](rachelisaac995@gmail.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+<p align="right"><p align="right">(<a href="#readme-top"><a href="#readme-top">back to top</a></a>)</p></p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+🙏 Acknowledgments
+
+I would like to Give credit to the author of the original design [Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+📝 License
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
