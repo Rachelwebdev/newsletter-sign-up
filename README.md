@@ -112,7 +112,7 @@ Test this app by runing:
 - GitHub: [@rachelwebdev](https://github.com/Rachelwebdev)
 - Twitter:[@rachelisaac13](https://twitter.com/Rachelisaac13)
 - LinkedIn: [Rachel Isaac](https://www.linkedin.com/in/rachelisaac13/)
-- Email: [Rachel isaac](rachelisaac995@gmail.com)
+- Email: [rachelisaac995@gmail.com]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
