@@ -1,5 +1,7 @@
 import React from 'react';
+import Form from './form';
 import mobileIllustration from '../assets/images/illustration-sign-up-mobile.svg';
+import desktopIllustration from '../assets/images/illustration-sign-up-desktop.svg';
 import icon from '../assets/images/icon-list.svg';
 import '../styles/description.css';
 
@@ -9,7 +11,12 @@ const Description = () => (
       <img
         src={mobileIllustration}
         alt="mobile illustration"
-        className="illustration-img"
+        className="mobile-illustration-img"
+      />
+      <img
+        src={desktopIllustration}
+        alt="mobile illustration"
+        className="desktop-illustration-img"
       />
       <div className="text-container">
         <h1 className="desc-header">Stay updated!</h1>
@@ -46,6 +53,7 @@ const Description = () => (
             <p className="update-desc">And much more!</p>
           </li>
         </ul>
+        <Form />
       </div>
     </div>
   </>

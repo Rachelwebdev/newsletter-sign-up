@@ -4,14 +4,19 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  scroll-behavior: smooth;
 }
 
 .text-container {
   padding: 1rem 2rem;
 }
 
-.illustration-img {
+.mobile-illustration-img {
   width: 100%;
+}
+
+.desktop-illustration-img {
+  display: none;
 }
 
 .desc-header {
@@ -43,4 +48,19 @@ li p {
 
 ul li {
   list-style: none;
+}
+
+@media screen and (min-width: 1024px) {
+  .description-container {
+    flex-direction: row-reverse;
+    height: 100vh;
+  }
+
+  .mobile-illustration-img {
+    display: none;
+  }
+
+  .desktop-illustration-img {
+    display: block;
+  }
 }
