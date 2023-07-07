@@ -6,10 +6,26 @@
 }
 
 .email-label {
-  color: red;
+  font-size: 15px;
+  color: hsl(234, 29%, 20%);
+  font-weight: 700;
 }
 
-.email-input {
-  font-size: 2rem;
-  padding: 2rem;
+.email-input,
+.btn-form {
+  border: 1px solid hsl(231, 7%, 60%);
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+::placeholder {
+  color: hsl(231, 7%, 60%);
+  font-size: 15px;
+}
+
+.btn-form {
+  background-color: hsl(234, 29%, 20%);
+  color: #fff;
+  font-size: 17px;
+  font-weight: 700;
 }
